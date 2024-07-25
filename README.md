@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou o Gabs Geógrafo 👋
 
-<!--
-**gabsgeografo/gabsgeografo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabaho com Data Science e IA
+- 🌱 Estou estudando R, Python e Java
+- 👯 Gosto de atuar em projetos aplicados à agricultura e à econometria
+- 💬 Gosto de falar sobre tech, finanças e agro
+- 😄 Pronomes: ele/dele
+- ⚡ Fun fact: tenho dedos tortos e sou torcedor (sofredor) do Santos FC
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://linktr.ee/gabsgeografo">
+    <img height="180em" src="thhps://github-reafme-stats.vercel.app/api?username=gabsgeografo&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula"/>
+</div>
