@@ -17,7 +17,12 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/r.svg" alt="R" width="40" height="40"/>
 </div>
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsgeografo&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula)
+
 ## Siga-me nas redes sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-follow%20me%20@gabsgeografo-E4405F?style=social&logo=instagram)](https://www.instagram.com/gabsgeografo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/passosgabriel/)
+
