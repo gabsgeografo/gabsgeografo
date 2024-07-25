@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabs Geógrafo 👋
 
-- 🔭 Hoje trabaho com Data Science e IA
+- 🔭 Trabalho com Data Science e IA
 - 🌱 Estou estudando R, Python e Java
 - 👯 Gosto de atuar em projetos aplicados à agricultura e à econometria
 - 💬 Gosto de falar sobre tech, finanças e agro
