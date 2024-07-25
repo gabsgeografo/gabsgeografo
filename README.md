@@ -13,9 +13,14 @@
 ## Linguagens Utilizadas
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/r.svg" alt="R" width="40" height="40"/>
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="#3776AB" xmlns="http://www.w3.org/2000/svg">
+    <img src="(https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg)" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+  </svg>
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="#276DC3" xmlns="http://www.w3.org/2000/svg" style="margin-left: 10px;">
+     <img src="(https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/r.svg)" alt="R" width="40" height="40"/>
+  </svg>
 </div>
+
 
 ## GitHub Stats
 
