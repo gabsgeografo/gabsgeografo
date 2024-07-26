@@ -5,7 +5,8 @@
 - 👯 Gosto de atuar em projetos aplicados à agricultura e economia
 - 💬 Gosto de falar sobre tech, finanças, agro e D&I
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: tenho dedos tortos, sou torcedor (sofredor) do Santos FC e sou fã de vôlei
+- ⚡ Fun fact: tenho dedos tortos, sou torcedor (sofredor) do Santos FC e sou fã de vôlei (torcedor do Praia Clube e do Cruzeiro)
+- 🙋🏿‍♂️ Falo fluentemente Espanhol e Inglês
 
 ## Linguagens mais utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgeografo&layout=compact&theme=dracula)
