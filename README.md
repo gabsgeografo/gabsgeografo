@@ -8,7 +8,7 @@
 - ⚡ Fun fact: tenho dedos tortos, sou torcedor (sofredor) do Santos FC e sou fã de vôlei
 
 ## Linguagens mais utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgeografo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgeografo&layout=compact&theme=dracula)
 
 ## GitHub Stats
 
