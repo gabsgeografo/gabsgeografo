@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabs Geógrafo 👋
+## Olá! Eu sou o Gabs 👋
 
 - 💻 Trabalho com Data Science e IA
 - 🌱 Estou estudando R, Python e Java
